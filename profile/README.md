@@ -1,7 +1,7 @@
 <h1 align="lelft">Hola, somos miramar.dev 🌴</h1>
 <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c6/4a/5f/playa-miramar.jpg?w=1200&h=-1&s=1" />
 
-<h3 align="left">un grupo de personas 👩‍💻👨‍💻 que les encanta la playa y desarrollar productos basados en software usando</h3>
+<h3 align="left">un grupo de personas 👩‍💻👨‍💻 que les encanta la playa y desarrollar software usando</h3>
 <p align="center">
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="70" /> </a>
 	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70" /> </a>
